@@ -1,0 +1,10 @@
+20 kişilik bir sınıfta öğrencilerin bir dersten aldığı notlar dizi değişkeni kullanılarak klavyeden girilecektir. Notlar girildikten sonra, sınıfın ortalamasını, sınıftaki en yüksek ve en düşük notu bulan ve ekranda gösteren programın kodunu yazınız.
+
+2- Renklerden oluşan bir liste veri yapısı oluşturun. Başlangıçta 7 renk olarak listeyi belirleyin. 
+a)	Bu listenin elemanlarını ekrana yazdırın.
+b)	Bu listenin 6.elemanını ekrana yazdırın.
+c)	Bu listeye yeni iki renk ekleyin.
+d)	Bu listenin 5.elemanından sonra yeni bir renk ekleyin.
+e)	Bu diziden 4.elemanı silin.
+f)	Liste içinde “kırmızı” elemanı arayın.
+
